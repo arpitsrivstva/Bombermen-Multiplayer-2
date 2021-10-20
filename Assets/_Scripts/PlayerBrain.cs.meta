@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da139bc9ead6bfb4a8ece0e936136f34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - playerGO: {instanceID: 0}
+  - playerScore: {instanceID: 0}
+  - maxActiveBombs: {instanceID: 0}
+  - movementSpeed: {instanceID: 0}
+  - bombPrefab: {fileID: 1263393761950994, guid: c327be217ed53114bb22f8c2b88f7bd7, type: 3}
+  - bombPlacementDelay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
